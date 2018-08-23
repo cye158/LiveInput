@@ -1,0 +1,32 @@
+.text-area {
+    width: 90%;
+}
+
+hr{
+    width: 100%;
+}
+
+.in-t, .out-t{
+    width: 12em;
+    margin: auto;
+}
+
+.out-b{
+    background-color: lightslategray;
+    height: 7em;
+    padding: 0 7.5px;
+}
+
+.in-b{
+    height: 2em;
+    padding: 0 7.5px;
+}
+
+.in-b, .out-b{
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 17em;
+    font-size: 1em;
+    overflow: scroll;
+    word-break: break-all;
+}
